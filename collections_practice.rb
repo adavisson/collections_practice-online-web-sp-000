@@ -25,5 +25,7 @@ end
 
 def kesha_maker(strings)
   keshas = []
-  
+  strings.each do |string|
+    
+  end
 end
