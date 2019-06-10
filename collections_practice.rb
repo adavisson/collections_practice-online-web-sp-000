@@ -34,5 +34,5 @@ def kesha_maker(strings)
 end
 
 def find_a(array)
-  array.match(/\ba\S*\b/)
+  array.grep(/\ba\S*\b/)
 end
