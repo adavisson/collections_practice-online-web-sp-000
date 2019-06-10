@@ -18,3 +18,7 @@ def swap_elements(array)
   array[2] = temp
   array
 end
+
+def reverse_array(integers)
+  integers.reverse
+end
