@@ -45,6 +45,8 @@ def add_s(array)
   array.each_with_index.collect do |word, idx|
     if(idx != 1)
       word << "s"
+    else
+      word
     end
   end
 end
