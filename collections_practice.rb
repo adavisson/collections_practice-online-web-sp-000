@@ -40,3 +40,7 @@ end
 def sum_array(integers)
   integers.inject(:+)
 end
+
+def add_s(array)
+  
+end
