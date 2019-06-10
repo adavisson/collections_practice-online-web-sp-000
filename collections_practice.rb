@@ -36,3 +36,7 @@ end
 def find_a(array)
   array.grep(/\ba\S*\b/)
 end
+
+def sum_array(integers)
+  
+end
