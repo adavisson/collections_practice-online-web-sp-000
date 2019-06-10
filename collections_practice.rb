@@ -33,3 +33,6 @@ def kesha_maker(strings)
   keshas
 end
 
+def find_a(array)
+  
+end
