@@ -26,6 +26,8 @@ end
 def kesha_maker(strings)
   keshas = []
   strings.each do |string|
-    
+    arr = string.split()
+    arr[2] = "$"
+    keshas <<arr
   end
 end
